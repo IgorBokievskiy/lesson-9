@@ -1,0 +1,72 @@
+li {
+  display: inline-block;
+  margin-left: 100px;
+}
+.nav {
+  margin-left: 315px;
+}
+a {
+  text-decoration: none;
+  font-family: 'Playfair Display';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 19px;
+/* identical to box height */
+
+
+color: #7D7D7D;
+}
+.active {
+  color: #03A9F4;
+}
+.lifestyle {
+  font-family: 'Ubuntu';
+font-style: normal;
+font-weight: 300;
+font-size: 14px;
+line-height: 16px;
+/* identical to box height */
+
+
+color: #B4AD9E;
+
+}
+h3 {
+  font-family: 'Playfair Display';
+font-style: normal;
+font-weight: normal;
+font-size: 30px;
+line-height: 40px;
+/* identical to box height */
+
+
+color: #626262;
+
+}
+p {
+  font-family: 'Playfair Display';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 19px;
+
+color: #626262;
+}
+button {
+  font-family: 'Playfair Display';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 19px;
+/* identical to box height */
+
+
+color: #626262;
+width: 165px;
+height: 60px;
+margin-left: 506px;
+background-color: white;
+border: 1px solid #626262;
+margin-top: 90px;
+}
